@@ -1,0 +1,30 @@
+{
+  "home": {
+    "variant": "b",
+    "images": {
+      "hero": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/71f4eb7b352647bb9bcbb971819343c1.jpg"
+    }
+  },
+  "work": {
+    "variant": "a",
+    "images": {
+      "projects.0": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/a2c40d92621647909cdd50c18123a81e.jpg",
+      "projects.1": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/f2e6c3be484a489e87f15a9e81720d9e.jpg",
+      "projects.2": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/fababfb424d249c3a65fbbb30e843f07.jpg",
+      "projects.3": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/156dd22eece4412b94e6286e967ac72c.jpg",
+      "projects.4": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/61fca95ec32f40dbb3eecf5a44a7622d.jpg",
+      "projects.5": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/a4b965adf0644db6a023358dcf0924e8.jpg",
+      "projects.6": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/9c059ef5229f4bff8f4c506b0373690f.jpg",
+      "projects.7": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/2a64b5f0542a4f11b55e2753147b5d9d.jpg"
+    }
+  },
+  "about": {
+    "variant": "c",
+    "images": {
+      "hero": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/b81c17f491cf4d7abe4afadffc44afa2.jpg"
+    }
+  },
+  "contact": {
+    "variant": "a"
+  }
+}

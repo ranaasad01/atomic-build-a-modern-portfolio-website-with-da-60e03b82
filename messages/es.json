@@ -1,0 +1,247 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "work": "Trabajo",
+    "about": "Acerca de",
+    "contact": "Contacto"
+  },
+  "cta": {
+    "primary": "Hablemos"
+  },
+  "footer": {
+    "tagline": "Diseñando experiencias digitales audaces",
+    "rights": "Todos los derechos reservados.",
+    "columns": {
+      "explore": "Explorar",
+      "connect": "Conectar"
+    },
+    "links": {
+      "home": "Inicio",
+      "work": "Trabajo",
+      "about": "Acerca de",
+      "contact": "Contacto",
+      "email": "Envíame un Email",
+      "resume": "Descargar CV"
+    }
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Portafolio de Diseño y Desarrollo",
+      "title": "Creo productos digitales audaces que se rehúsan a pasar desapercibidos",
+      "subtitle": "Diseñador y desarrollador independiente creando sitios web e interfaces afiladas y de alto impacto para marcas que quieren destacar, no encajar.",
+      "cta": "Ver Trabajo",
+      "secondaryCta": "Ponte en Contacto"
+    },
+    "featured": {
+      "eyebrow": "Trabajo Seleccionado",
+      "title": "Proyectos construidos con propósito",
+      "subtitle": "Un vistazo a casos de estudio recientes que abarcan diseño de producto, branding y desarrollo full-stack.",
+      "cta": "Ver Todos los Proyectos"
+    },
+    "services": {
+      "eyebrow": "Qué Hago",
+      "title": "Habilidades construidas para el proceso completo",
+      "subtitle": "Desde el primer boceto hasta el producto lanzado, cubro cada etapa de la construcción.",
+      "items": {
+        "0": {
+          "title": "Diseño de Producto",
+          "description": "Interfaces que equilibran identidad visual audaz con usabilidad clara e intuitiva."
+        },
+        "1": {
+          "title": "Desarrollo Front-End",
+          "description": "Construcciones precisas al píxel y de alto rendimiento usando React, Next.js y herramientas modernas."
+        },
+        "2": {
+          "title": "Identidad de Marca",
+          "description": "Sistemas visuales distintivos incluyendo tipografía, color y lenguaje de movimiento."
+        },
+        "3": {
+          "title": "Estrategia Técnica",
+          "description": "Decisiones de arquitectura y stack que mantienen los productos rápidos y escalables."
+        },
+        "4": {
+          "title": "Movimiento e Interacción",
+          "description": "Microinteracciones y animaciones impulsadas por scroll que añaden personalidad sin ruido."
+        }
+      }
+    },
+    "testimonials": {
+      "eyebrow": "Palabras de Clientes",
+      "title": "Confiado por equipos que quieren más",
+      "subtitle": "Retroalimentación de los fundadores y equipos con los que he colaborado.",
+      "items": {
+        "0": {
+          "quote": "El sitio de portafolio más audaz que hemos lanzado. Las conversiones aumentaron la semana que se lanzó.",
+          "name": "Priya Nair",
+          "role": "Fundadora, Loom & Co"
+        },
+        "1": {
+          "quote": "Estética afilada, entrega rápida y pensamiento genuinamente estratégico sobre nuestro producto.",
+          "name": "Marcus Webb",
+          "role": "Head of Product, Fieldnote"
+        },
+        "2": {
+          "quote": "Raro encontrar a alguien que diseña y programa a este nivel. Todo funcionó perfectamente.",
+          "name": "Elena Torres",
+          "role": "CEO, Northbound Studio"
+        }
+      }
+    },
+    "cta": {
+      "title": "¿Tienes una idea audaz que vale la pena construir?",
+      "subtitle": "Convirtámosla en algo que la gente recuerde.",
+      "button": "Iniciar un Proyecto"
+    }
+  },
+  "work": {
+    "hero": {
+      "eyebrow": "Trabajo Seleccionado",
+      "title": "Proyectos Construidos para Rendir",
+      "subtitle": "Una colección de trabajo en producto, marca e ingeniería que abarca startups y equipos establecidos."
+    },
+    "projects": {
+      "0": {
+        "title": "Nova Banking App",
+        "category": "Diseño de Producto",
+        "description": "Rediseño integral de una experiencia de banca móvil, reduciendo el tiempo de incorporación en un 40% e impulsando la retención."
+      },
+      "1": {
+        "title": "Pulse Analytics Dashboard",
+        "category": "Diseño UI/UX",
+        "description": "Una plataforma de visualización de datos en tiempo real construida para claridad de un vistazo, utilizada diariamente por más de 10,000 analistas."
+      },
+      "2": {
+        "title": "Fieldnote CMS",
+        "category": "Desarrollo Full-Stack",
+        "description": "CMS headless personalizado que permite a un equipo de medios publicar en cinco plataformas desde una única interfaz."
+      },
+      "3": {
+        "title": "Aperture Brand System",
+        "category": "Branding",
+        "description": "Identidad visual completa y sistema de diseño para un colectivo fotográfico, desde logotipo hasta directrices de movimiento."
+      },
+      "4": {
+        "title": "Switchboard E-Commerce",
+        "category": "Desarrollo Web",
+        "description": "Una tienda de comercio electrónico headless con tiempos de carga subsegundos y un aumento del 22% en la tasa de conversión."
+      },
+      "5": {
+        "title": "Lumen Marketing Site",
+        "category": "Diseño Web",
+        "description": "Un sitio de marketing audaz y dinámico que duplicó la duración promedio de la sesión en su primer mes."
+      },
+      "6": {
+        "title": "Orbit Design System",
+        "category": "Sistemas de Diseño",
+        "description": "Una biblioteca de componentes escalable adoptada en cuatro equipos de producto, reduciendo a la mitad el tiempo de entrega de diseño a desarrollo."
+      },
+      "7": {
+        "title": "Northwind Identity",
+        "category": "Branding",
+        "description": "Rebranding para una empresa de logística, incluyendo identidad, señalización y una presencia digital renovada."
+      }
+    },
+    "cta": {
+      "title": "¿Tienes un proyecto en mente?",
+      "subtitle": "Convirtamos tu idea en algo afilado, rápido e inolvidable.",
+      "button": "Iniciar un Proyecto"
+    }
+  },
+  "about": {
+    "hero": {
+      "eyebrow": "Sobre Mí",
+      "title": "Diseño con intención. Construcción con precisión.",
+      "subtitle": "Soy un creativo multidisciplinario que transforma ideas audaces en productos digitales afilados y funcionales."
+    },
+    "story": {
+      "title": "Mi Historia",
+      "paragraphs": {
+        "0": "Comencé esbozando interfaces en servilletas y nunca realmente paré. Durante los últimos ocho años, ese hábito creció hasta convertirse en una práctica completa que abarca diseño de productos, desarrollo front-end y sistemas de marca para startups y empresas establecidas.",
+        "1": "Me importan los detalles que la mayoría de la gente pasa por alto: la curva de suavizado en un estado hover, la relación de contraste que hace que el texto sea realmente legible, el estado vacío que aún se siente considerado. Audaz no significa ruidoso — significa que cada decisión es deliberada.",
+        "2": "Hoy en día divido mi tiempo entre casos de estudio de clientes y experimentos personales, siempre buscando la próxima limitación que valga la pena romper."
+      }
+    },
+    "values": {
+      "eyebrow": "Cómo Trabajo",
+      "title": "Principios que guían cada proyecto",
+      "subtitle": "Una breve lista de lo que puedes esperar cuando trabajamos juntos.",
+      "items": {
+        "0": {
+          "title": "Claridad sobre decoración",
+          "description": "Cada elección visual tiene que ganarse su lugar. Si no sirve al usuario o al mensaje, se va."
+        },
+        "1": {
+          "title": "Iteración rápida y honesta",
+          "description": "Lanzo versiones ásperas temprano y las mejoro en público en lugar de pulir en aislamiento."
+        },
+        "2": {
+          "title": "Diseño consciente del código",
+          "description": "Diseño pensando en el navegador, así que la entrega es rápida y nada se pierde en la traducción."
+        },
+        "3": {
+          "title": "Accesible por defecto",
+          "description": "Modo oscuro, contraste de color y navegación por teclado nunca son una ocurrencia tardía."
+        },
+        "4": {
+          "title": "Comunicación directa",
+          "description": "Sin jerga, sin actualizaciones vagas — solo progreso claro y compensaciones honestas."
+        }
+      }
+    },
+    "stats": {
+      "0": {
+        "value": "8+",
+        "label": "Años en práctica"
+      },
+      "1": {
+        "value": "40+",
+        "label": "Proyectos entregados"
+      },
+      "2": {
+        "value": "12",
+        "label": "Industrias en las que he trabajado"
+      },
+      "3": {
+        "value": "4.9/5",
+        "label": "Calificación promedio de clientes"
+      }
+    },
+    "cta": {
+      "title": "Construyamos algo audaz",
+      "subtitle": "¿Tienes un proyecto en mente o solo quieres hablar de diseño? Siempre estoy disponible para una conversación.",
+      "button": "Ponte en Contacto"
+    }
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Ponte en Contacto",
+      "title": "Construyamos algo audaz.",
+      "subtitle": "¿Tienes un proyecto, una pregunta o solo quieres hablar de diseño? Envía un mensaje abajo."
+    },
+    "form": {
+      "nameLabel": "Tu nombre",
+      "emailLabel": "Dirección de correo",
+      "messageLabel": "Cuéntame sobre tu proyecto",
+      "submitLabel": "Enviar mensaje",
+      "successMessage": "Gracias por comunicarte — te responderé dentro de 48 horas.",
+      "details": {
+        "0": {
+          "label": "Correo electrónico",
+          "value": "hello@modernportfolio.dev"
+        },
+        "1": {
+          "label": "Teléfono",
+          "value": "+1 (415) 555-0192"
+        },
+        "2": {
+          "label": "Ubicación",
+          "value": "San Francisco, CA — disponible para trabajo remoto"
+        },
+        "3": {
+          "label": "Horario",
+          "value": "Lun–Vie, 9am–6pm PT"
+        }
+      }
+    }
+  }
+}

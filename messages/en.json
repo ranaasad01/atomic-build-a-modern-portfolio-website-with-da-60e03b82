@@ -1,0 +1,247 @@
+{
+  "nav": {
+    "home": "Home",
+    "work": "Work",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "cta": {
+    "primary": "Let's Talk"
+  },
+  "footer": {
+    "tagline": "Designing bold digital experiences",
+    "rights": "All rights reserved.",
+    "columns": {
+      "explore": "Explore",
+      "connect": "Connect"
+    },
+    "links": {
+      "home": "Home",
+      "work": "Work",
+      "about": "About",
+      "contact": "Contact",
+      "email": "Email Me",
+      "resume": "Download Resume"
+    }
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Design & Development Portfolio",
+      "title": "I build bold digital products that refuse to blend in",
+      "subtitle": "Independent designer and developer crafting sharp, high-impact websites and interfaces for brands who want to stand out, not fit in.",
+      "cta": "View Work",
+      "secondaryCta": "Get In Touch"
+    },
+    "featured": {
+      "eyebrow": "Selected Work",
+      "title": "Projects built with purpose",
+      "subtitle": "A look at recent case studies spanning product design, branding, and full-stack development.",
+      "cta": "See All Projects"
+    },
+    "services": {
+      "eyebrow": "What I Do",
+      "title": "Skills built for the full process",
+      "subtitle": "From first sketch to shipped product, I cover every stage of the build.",
+      "items": {
+        "0": {
+          "title": "Product Design",
+          "description": "Interfaces that balance bold visual identity with clear, intuitive usability."
+        },
+        "1": {
+          "title": "Front-End Development",
+          "description": "Pixel-accurate, performant builds using React, Next.js, and modern tooling."
+        },
+        "2": {
+          "title": "Brand Identity",
+          "description": "Distinct visual systems including typography, color, and motion language."
+        },
+        "3": {
+          "title": "Technical Strategy",
+          "description": "Architecture and stack decisions that keep products fast and scalable."
+        },
+        "4": {
+          "title": "Motion & Interaction",
+          "description": "Micro-interactions and scroll-driven animation that add personality without noise."
+        }
+      }
+    },
+    "testimonials": {
+      "eyebrow": "Client Words",
+      "title": "Trusted by teams who want more",
+      "subtitle": "Feedback from the founders and teams I've partnered with.",
+      "items": {
+        "0": {
+          "quote": "The boldest portfolio site we've ever shipped. Conversion jumped the week it launched.",
+          "name": "Priya Nair",
+          "role": "Founder, Loom & Co"
+        },
+        "1": {
+          "quote": "Sharp aesthetic, fast delivery, and genuinely strategic thinking about our product.",
+          "name": "Marcus Webb",
+          "role": "Head of Product, Fieldnote"
+        },
+        "2": {
+          "quote": "Rare to find someone who designs and codes at this level. Everything just worked.",
+          "name": "Elena Torres",
+          "role": "CEO, Northbound Studio"
+        }
+      }
+    },
+    "cta": {
+      "title": "Have a bold idea worth building?",
+      "subtitle": "Let's turn it into something people remember.",
+      "button": "Start a Project"
+    }
+  },
+  "work": {
+    "hero": {
+      "eyebrow": "Selected Work",
+      "title": "Projects Built to Perform",
+      "subtitle": "A collection of product, brand, and engineering work spanning startups and established teams."
+    },
+    "projects": {
+      "0": {
+        "title": "Nova Banking App",
+        "category": "Product Design",
+        "description": "End-to-end redesign of a mobile banking experience, cutting onboarding time by 40% and boosting retention."
+      },
+      "1": {
+        "title": "Pulse Analytics Dashboard",
+        "category": "UI/UX Design",
+        "description": "A real-time data visualization platform built for clarity at a glance, used daily by 10,000+ analysts."
+      },
+      "2": {
+        "title": "Fieldnote CMS",
+        "category": "Full-Stack Development",
+        "description": "Custom headless CMS enabling a media team to publish across five platforms from one interface."
+      },
+      "3": {
+        "title": "Aperture Brand System",
+        "category": "Branding",
+        "description": "Complete visual identity and design system for a photography collective, from logotype to motion guidelines."
+      },
+      "4": {
+        "title": "Switchboard E-Commerce",
+        "category": "Web Development",
+        "description": "A headless commerce storefront with sub-second load times and a 22% lift in conversion rate."
+      },
+      "5": {
+        "title": "Lumen Marketing Site",
+        "category": "Web Design",
+        "description": "A bold, motion-driven marketing site that doubled average session duration within its first month."
+      },
+      "6": {
+        "title": "Orbit Design System",
+        "category": "Design Systems",
+        "description": "A scalable component library adopted across four product teams, cutting design-to-dev handoff time in half."
+      },
+      "7": {
+        "title": "Northwind Identity",
+        "category": "Branding",
+        "description": "Rebrand for a logistics company, including identity, signage, and a refreshed digital presence."
+      }
+    },
+    "cta": {
+      "title": "Have a project in mind?",
+      "subtitle": "Let's turn your idea into something sharp, fast, and unforgettable.",
+      "button": "Start a Project"
+    }
+  },
+  "about": {
+    "hero": {
+      "eyebrow": "About Me",
+      "title": "Design with intent. Build with precision.",
+      "subtitle": "I'm a multidisciplinary creative who turns bold ideas into sharp, functional digital products."
+    },
+    "story": {
+      "title": "My Story",
+      "paragraphs": {
+        "0": "I started out sketching interfaces on napkins and never really stopped. Over the past eight years, that habit grew into a full practice spanning product design, front-end development, and brand systems for startups and established companies alike.",
+        "1": "I care about the details most people skip past: the easing curve on a hover state, the contrast ratio that makes text actually readable, the empty state that still feels considered. Bold doesn't mean loud — it means every decision is deliberate.",
+        "2": "These days I split my time between client case studies and personal experiments, always looking for the next constraint worth breaking."
+      }
+    },
+    "values": {
+      "eyebrow": "How I Work",
+      "title": "Principles that guide every project",
+      "subtitle": "A short list of what you can expect when we work together.",
+      "items": {
+        "0": {
+          "title": "Clarity over decoration",
+          "description": "Every visual choice has to earn its place. If it doesn't serve the user or the message, it goes."
+        },
+        "1": {
+          "title": "Fast, honest iteration",
+          "description": "I ship rough versions early and improve them in public rather than polishing in isolation."
+        },
+        "2": {
+          "title": "Code-aware design",
+          "description": "I design with the browser in mind, so handoff is fast and nothing gets lost in translation."
+        },
+        "3": {
+          "title": "Accessible by default",
+          "description": "Dark mode, color contrast, and keyboard navigation are never an afterthought."
+        },
+        "4": {
+          "title": "Direct communication",
+          "description": "No jargon, no vague updates — just clear progress and honest trade-offs."
+        }
+      }
+    },
+    "stats": {
+      "0": {
+        "value": "8+",
+        "label": "Years in practice"
+      },
+      "1": {
+        "value": "40+",
+        "label": "Projects shipped"
+      },
+      "2": {
+        "value": "12",
+        "label": "Industries worked in"
+      },
+      "3": {
+        "value": "4.9/5",
+        "label": "Average client rating"
+      }
+    },
+    "cta": {
+      "title": "Let's build something bold",
+      "subtitle": "Have a project in mind or just want to talk shop? I'm always up for a conversation.",
+      "button": "Get in Touch"
+    }
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Get In Touch",
+      "title": "Let's build something bold.",
+      "subtitle": "Have a project, a question, or just want to talk design? Drop a line below."
+    },
+    "form": {
+      "nameLabel": "Your name",
+      "emailLabel": "Email address",
+      "messageLabel": "Tell me about your project",
+      "submitLabel": "Send message",
+      "successMessage": "Thanks for reaching out — I'll get back to you within 48 hours.",
+      "details": {
+        "0": {
+          "label": "Email",
+          "value": "hello@modernportfolio.dev"
+        },
+        "1": {
+          "label": "Phone",
+          "value": "+1 (415) 555-0192"
+        },
+        "2": {
+          "label": "Location",
+          "value": "San Francisco, CA — open to remote"
+        },
+        "3": {
+          "label": "Hours",
+          "value": "Mon–Fri, 9am–6pm PT"
+        }
+      }
+    }
+  }
+}
